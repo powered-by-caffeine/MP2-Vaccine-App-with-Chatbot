@@ -1,0 +1,10 @@
+hello
+Hello! Feel free to ask me anything and I'll try my best to answer :)
+goodbye
+Goodbye! If you want to exit my program, simply type 'exit'.
+thank you
+No problem. I am always happy to help!
+is vaccination mandatory
+According to DOH.gov: No, vaccination is not mandatory, but is encouraged.
+how many active cases are there right now
+According to covid19.gov.ph: There are 9,080 active cases as of 02 April 2023.
